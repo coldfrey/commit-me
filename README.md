@@ -17,6 +17,7 @@ This is a totally serious, production-ready AWS CDK project that definitely didn
 
 
 2025-02-07 22:55:53 UTC 😎
+> I'm not lazy, I'm just efficient.
 2025-02-07 22:57:56 UTC 😃
 > How an engineer writes a program: Start by debugging an empty file...
 
