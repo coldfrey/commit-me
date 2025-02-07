@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "commit-me"
+version = "0.1.0"
+description = "yoyo commit graph for dayz"
+authors = ["Joshua Carey <josh5485@me.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+aws-cdk-lib = "^2.178.1"
+constructs = "^10.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
