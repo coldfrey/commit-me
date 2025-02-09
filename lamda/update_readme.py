@@ -7,6 +7,7 @@ import random
 import json
 import urllib.request
 import urllib.error
+import pyjokes
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -16,6 +17,10 @@ def get_random_emoji():
     """Return a random emoji from a predefined list."""
     emojis = ["😃", "🚀", "🎉", "🔥", "✨", "👍", "🥳", "😎", "🤖", "🌟"]
     return random.choice(emojis)
+
+def get_random_joke():
+    """Return a random programming joke."""
+    return pyjokes.get_joke(category='neutral')
 
 def append_date_time_to_readme(token, repo_name, file_path="README.md"):
     """
@@ -45,10 +50,13 @@ def append_date_time_to_readme(token, repo_name, file_path="README.md"):
         file_content = base64.b64decode(data["content"]).decode("utf-8")
         file_sha = data["sha"]
 
-        # 2. Append the timestamp and random emoji
-        current_time = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-        new_line = f"{current_time} {get_random_emoji()}"
-        new_content = file_content.rstrip() + "\n" + new_line
+        # 2. Append the timestamp, emoji, and joke
+        current_time = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
+        joke = get_random_joke()
+        new_line = f"\n> {joke}\n\nLast Updated: {current_time} {get_random_emoji()}\n"
+        
+        # Ensure the file ends with exactly one newline before adding our update
+        new_content = file_content.rstrip() + new_line
 
         # Encode the new content in Base64
         encoded_content = base64.b64encode(new_content.encode("utf-8")).decode("utf-8")

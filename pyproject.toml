@@ -7,8 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
-aws-cdk-lib = "^2.178.1"
 constructs = "^10.4.2"
+pyjokes = "^0.8.3"
+aws-cdk-lib = "2.173.2"
 
 
 [build-system]

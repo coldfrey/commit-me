@@ -26,7 +26,13 @@ class GitHubReadmeUpdateStack(Stack):
             self, "UpdateReadmeFunction",
             runtime=_lambda.Runtime.PYTHON_3_12,
             handler="update_readme.lambda_handler",  # Looks for lamda/update_readme.py
-            code=_lambda.Code.from_asset("lamda"),      # Use the "lamda" directory as the asset
+            code=_lambda.Code.from_asset("lamda", bundling={
+                "image": _lambda.Runtime.PYTHON_3_12.bundling_image,
+                "command": [
+                    "bash", "-c",
+                    "pip install -r requirements.txt -t /asset-output && cp -au . /asset-output"
+                ]
+            }),  
             timeout=Duration.seconds(30),
             environment={
                 # Commit to the same repository that contains the code:
