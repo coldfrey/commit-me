@@ -38,3 +38,6 @@ Last Updated: 2025-02-07 23:22:37 UTC 🌟
 > A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
 
 Last Updated: 2025-02-08 16:20:49 UTC 🚀
+> An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+
+Last Updated: 2025-02-09 16:20:49 UTC 🤖
