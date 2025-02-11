@@ -44,3 +44,6 @@ Last Updated: 2025-02-09 16:20:49 UTC 🤖
 > My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!
 
 Last Updated: 2025-02-10 16:20:49 UTC 🎉
+> Sympathy for the Devil is really just about being nice to QAs.
+
+Last Updated: 2025-02-11 16:20:49 UTC 🚀
