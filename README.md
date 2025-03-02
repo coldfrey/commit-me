@@ -101,3 +101,6 @@ Last Updated: 2025-02-28 16:20:49 UTC ✨
 > Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
 
 Last Updated: 2025-03-01 16:20:49 UTC 🎉
+> The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+Last Updated: 2025-03-02 16:20:49 UTC 👍
