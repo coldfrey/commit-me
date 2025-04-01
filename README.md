@@ -191,3 +191,6 @@ Last Updated: 2025-03-30 16:20:49 UTC 😃
 > A user friendly computer first requires a friendly user.
 
 Last Updated: 2025-03-31 16:20:49 UTC 🥳
+> Windows is NOT a virus. Viruses DO something.
+
+Last Updated: 2025-04-01 16:20:49 UTC 🥳
