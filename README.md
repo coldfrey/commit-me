@@ -233,3 +233,6 @@ Last Updated: 2025-04-13 16:20:49 UTC 👍
 > A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.
 
 Last Updated: 2025-04-14 16:20:49 UTC 🎉
+> The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.
+
+Last Updated: 2025-04-15 16:20:49 UTC ✨
