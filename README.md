@@ -257,3 +257,6 @@ Last Updated: 2025-04-21 16:20:49 UTC 🔥
 > A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.
 
 Last Updated: 2025-04-22 16:20:49 UTC 😃
+> Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+
+Last Updated: 2025-04-23 16:20:49 UTC 👍
