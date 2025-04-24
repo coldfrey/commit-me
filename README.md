@@ -260,3 +260,6 @@ Last Updated: 2025-04-22 16:20:49 UTC 😃
 > Software salesmen and used-car salesmen differ in that the latter know when they are lying.
 
 Last Updated: 2025-04-23 16:20:49 UTC 👍
+> There are only 10 types of people in this world: those who understand binary, and those who don't.
+
+Last Updated: 2025-04-24 16:20:49 UTC ✨
