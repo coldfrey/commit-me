@@ -287,3 +287,6 @@ Last Updated: 2025-05-01 16:20:49 UTC 🥳
 > Sympathy for the Devil is really just about being nice to QAs.
 
 Last Updated: 2025-05-02 16:20:49 UTC 👍
+> One person's error is another person's data.
+
+Last Updated: 2025-05-03 16:20:49 UTC 👍
