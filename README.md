@@ -290,3 +290,6 @@ Last Updated: 2025-05-02 16:20:49 UTC 👍
 > One person's error is another person's data.
 
 Last Updated: 2025-05-03 16:20:49 UTC 👍
+> You don't have to know how the computer works, just how to work the computer.
+
+Last Updated: 2025-05-04 16:20:49 UTC 😃
