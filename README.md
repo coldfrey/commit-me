@@ -374,3 +374,6 @@ Last Updated: 2025-05-30 16:20:49 UTC 😎
 > A user friendly computer first requires a friendly user.
 
 Last Updated: 2025-05-31 16:20:49 UTC 🎉
+> Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.
+
+Last Updated: 2025-06-01 16:20:49 UTC 🎉
