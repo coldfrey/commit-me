@@ -380,3 +380,6 @@ Last Updated: 2025-06-01 16:20:49 UTC 🎉
 > A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.
 
 Last Updated: 2025-06-02 16:20:49 UTC 😃
+> How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+
+Last Updated: 2025-06-03 16:20:49 UTC 👍
