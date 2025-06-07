@@ -392,3 +392,6 @@ Last Updated: 2025-06-05 16:20:49 UTC 😎
 > Software salesmen and used-car salesmen differ in that the latter know when they are lying.
 
 Last Updated: 2025-06-06 16:20:49 UTC 😎
+> How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+
+Last Updated: 2025-06-07 16:20:49 UTC 😎
