@@ -425,3 +425,6 @@ Last Updated: 2025-06-16 16:20:49 UTC 🔥
 > If you listen to a UNIX shell, can you hear the C?
 
 Last Updated: 2025-06-17 16:20:49 UTC 🥳
+> Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+
+Last Updated: 2025-06-18 16:20:49 UTC 😃
