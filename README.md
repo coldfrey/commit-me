@@ -452,3 +452,6 @@ Last Updated: 2025-06-25 16:20:49 UTC 👍
 > 'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
 
 Last Updated: 2025-06-26 16:20:49 UTC 🌟
+> How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
+
+Last Updated: 2025-06-27 16:20:49 UTC 🥳
