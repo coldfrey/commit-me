@@ -455,3 +455,6 @@ Last Updated: 2025-06-26 16:20:49 UTC 🌟
 > How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
 
 Last Updated: 2025-06-27 16:20:49 UTC 🥳
+> An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+
+Last Updated: 2025-06-28 16:20:49 UTC 👍
