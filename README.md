@@ -464,3 +464,6 @@ Last Updated: 2025-06-29 16:20:49 UTC ✨
 > If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
 
 Last Updated: 2025-06-30 16:20:49 UTC 🤖
+> Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+
+Last Updated: 2025-07-01 16:20:49 UTC 🤖
