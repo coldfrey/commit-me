@@ -515,3 +515,6 @@ Last Updated: 2025-07-16 16:20:49 UTC 🔥
 > Hey! It compiles! Ship it!
 
 Last Updated: 2025-07-17 16:20:49 UTC 😎
+> Sympathy for the Devil is really just about being nice to QAs.
+
+Last Updated: 2025-07-18 16:20:49 UTC 🎉
