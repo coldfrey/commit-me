@@ -548,3 +548,6 @@ Last Updated: 2025-07-27 16:20:49 UTC 😃
 > Why do we want intelligent terminals when there are so many stupid users?
 
 Last Updated: 2025-07-28 16:20:49 UTC 👍
+> How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+
+Last Updated: 2025-07-29 16:20:49 UTC 🌟
