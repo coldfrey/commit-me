@@ -671,3 +671,6 @@ Last Updated: 2025-09-06 16:20:49 UTC 🎉
 > There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
 
 Last Updated: 2025-09-07 16:20:49 UTC ✨
+> What did the Java code say to the C code? A: You've got no class.
+
+Last Updated: 2025-09-08 16:20:49 UTC 🔥
