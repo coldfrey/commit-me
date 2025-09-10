@@ -677,3 +677,6 @@ Last Updated: 2025-09-08 16:20:49 UTC 🔥
 > Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
 
 Last Updated: 2025-09-09 16:20:49 UTC 🌟
+> Pirates go 'arg!', computer pirates go 'argv!'
+
+Last Updated: 2025-09-10 16:20:49 UTC 😃
