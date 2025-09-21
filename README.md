@@ -710,3 +710,6 @@ Last Updated: 2025-09-19 16:20:49 UTC 😎
 > I have a joke on programming but it only works on my computer.
 
 Last Updated: 2025-09-20 16:20:49 UTC 🤖
+> Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+
+Last Updated: 2025-09-21 16:20:49 UTC 🔥
