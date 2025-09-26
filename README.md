@@ -725,3 +725,6 @@ Last Updated: 2025-09-24 16:20:49 UTC 🌟
 > What do you call eight hobbits? A hobbyte.
 
 Last Updated: 2025-09-25 16:20:49 UTC 👍
+> The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.
+
+Last Updated: 2025-09-26 16:20:49 UTC 😃
