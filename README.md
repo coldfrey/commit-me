@@ -740,3 +740,6 @@ Last Updated: 2025-09-29 16:20:49 UTC 🎉
 > If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
 
 Last Updated: 2025-09-30 16:20:49 UTC 😎
+> Unix is user friendly. It's just very particular about who its friends are.
+
+Last Updated: 2025-10-01 16:20:49 UTC ✨
