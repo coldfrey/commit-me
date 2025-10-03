@@ -746,3 +746,6 @@ Last Updated: 2025-10-01 16:20:49 UTC ✨
 > Why did the programmer quit his job? Because he didn't get arrays.
 
 Last Updated: 2025-10-02 16:20:49 UTC 🚀
+> .NET was named .NET so that it wouldn't show up in a Unix directory listing.
+
+Last Updated: 2025-10-03 16:20:49 UTC ✨
