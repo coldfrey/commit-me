@@ -767,3 +767,6 @@ Last Updated: 2025-10-08 16:20:49 UTC 😎
 > Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
 
 Last Updated: 2025-10-09 16:20:49 UTC 🌟
+> The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.
+
+Last Updated: 2025-10-10 16:20:49 UTC 😃
