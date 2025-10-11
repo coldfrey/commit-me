@@ -770,3 +770,6 @@ Last Updated: 2025-10-09 16:20:49 UTC 🌟
 > The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.
 
 Last Updated: 2025-10-10 16:20:49 UTC 😃
+> Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+
+Last Updated: 2025-10-11 16:20:49 UTC 🚀
