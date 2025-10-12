@@ -773,3 +773,6 @@ Last Updated: 2025-10-10 16:20:49 UTC 😃
 > Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
 
 Last Updated: 2025-10-11 16:20:49 UTC 🚀
+> When your hammer is C++, everything begins to look like a thumb.
+
+Last Updated: 2025-10-12 16:20:49 UTC 😎
