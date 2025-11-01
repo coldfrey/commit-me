@@ -833,3 +833,6 @@ Last Updated: 2025-10-30 16:20:49 UTC 🔥
 > Unix is user friendly. It's just selective about who its friends are.
 
 Last Updated: 2025-10-31 16:20:49 UTC 🔥
+> A user friendly computer first requires a friendly user.
+
+Last Updated: 2025-11-01 16:20:49 UTC 🤖
