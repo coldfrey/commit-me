@@ -851,3 +851,6 @@ Last Updated: 2025-11-05 16:20:49 UTC 🔥
 > Pirates go 'arg!', computer pirates go 'argv!'
 
 Last Updated: 2025-11-06 16:20:49 UTC 🔥
+> The best thing about a Boolean is that even if you are wrong, you are only off by a bit.
+
+Last Updated: 2025-11-07 16:20:49 UTC 🎉
