@@ -872,3 +872,6 @@ Last Updated: 2025-11-12 16:20:49 UTC 🚀
 > Software developers like to solve problems. If there are no problems handily available, they will create their own.
 
 Last Updated: 2025-11-13 16:20:49 UTC 😃
+> Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+
+Last Updated: 2025-11-14 16:20:49 UTC 🎉
