@@ -887,3 +887,6 @@ Last Updated: 2025-11-17 16:20:49 UTC ✨
 > QAs consist of 55% water, 30% blood and 15% Jira tickets.
 
 Last Updated: 2025-11-18 16:20:49 UTC 🚀
+> Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+
+Last Updated: 2025-11-19 16:20:49 UTC 🚀
