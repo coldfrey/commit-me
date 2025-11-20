@@ -890,3 +890,6 @@ Last Updated: 2025-11-18 16:20:49 UTC 🚀
 > Software salesmen and used-car salesmen differ in that the latter know when they are lying.
 
 Last Updated: 2025-11-19 16:20:49 UTC 🚀
+> There are 2 types of people: those who can extrapolate from incomplete data sets...
+
+Last Updated: 2025-11-20 16:20:49 UTC 👍
