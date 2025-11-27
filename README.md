@@ -911,3 +911,6 @@ Last Updated: 2025-11-25 16:20:49 UTC 🔥
 > The C language combines all the power of assembly language with all the ease-of-use of assembly language.
 
 Last Updated: 2025-11-26 16:20:49 UTC 🚀
+> An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+
+Last Updated: 2025-11-27 16:20:49 UTC 🔥
