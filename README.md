@@ -1103,3 +1103,6 @@ Last Updated: 2026-01-28 16:20:49 UTC 👍
 > !false, (It's funny because it's true)
 
 Last Updated: 2026-01-29 16:20:49 UTC 🥳
+> The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+Last Updated: 2026-01-30 16:20:49 UTC 🚀
