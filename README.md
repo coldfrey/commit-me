@@ -1109,3 +1109,6 @@ Last Updated: 2026-01-30 16:20:49 UTC 🚀
 > A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.
 
 Last Updated: 2026-01-31 16:20:49 UTC 🌟
+> You don't have to know how the computer works, just how to work the computer.
+
+Last Updated: 2026-02-01 16:20:49 UTC 🥳
