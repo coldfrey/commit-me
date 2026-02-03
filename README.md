@@ -1115,3 +1115,6 @@ Last Updated: 2026-02-01 16:20:49 UTC 🥳
 > What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
 
 Last Updated: 2026-02-02 16:20:49 UTC 🔥
+> Changed my password to fortnight but apparently that's two week.
+
+Last Updated: 2026-02-03 16:20:49 UTC 👍
