@@ -1118,3 +1118,6 @@ Last Updated: 2026-02-02 16:20:49 UTC 🔥
 > Changed my password to fortnight but apparently that's two week.
 
 Last Updated: 2026-02-03 16:20:49 UTC 👍
+> Hardware: The part of a computer that you can kick.
+
+Last Updated: 2026-02-04 16:20:49 UTC 😎
