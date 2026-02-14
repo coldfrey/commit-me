@@ -1148,3 +1148,6 @@ Last Updated: 2026-02-12 16:20:49 UTC 👍
 > What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
 
 Last Updated: 2026-02-13 16:20:49 UTC 🎉
+> Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+
+Last Updated: 2026-02-14 16:20:49 UTC ✨
