@@ -1166,3 +1166,6 @@ Last Updated: 2026-02-18 16:20:49 UTC 🥳
 > Programmer: The ship I boarded crashed and I am dying! Project Manager: Then let's do a quick knowledge transfer session before you go.
 
 Last Updated: 2026-02-19 16:20:49 UTC 😎
+> How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+
+Last Updated: 2026-02-20 16:20:49 UTC ✨
