@@ -1247,3 +1247,6 @@ Last Updated: 2026-03-17 16:20:49 UTC 🔥
 > How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
 
 Last Updated: 2026-03-18 16:20:49 UTC 🔥
+> The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+Last Updated: 2026-03-19 16:20:49 UTC 🔥
