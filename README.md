@@ -1625,3 +1625,6 @@ Last Updated: 2026-07-21 16:20:49 UTC 😃
 > I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
 
 Last Updated: 2026-07-22 16:20:49 UTC 😃
+> Pirates go 'arg!', computer pirates go 'argv!'
+
+Last Updated: 2026-07-23 16:20:49 UTC 😃
